@@ -30,6 +30,7 @@ Search within the past hour for entries having a value starting with "python":
 
 
 Search the past 24 hours for initiator names "hloeser:
+
 `searchLogDNA.py logConfigEU.json 24 'initiator.name:hloeser'`
 
 ### Combine with jq
