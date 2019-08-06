@@ -105,3 +105,4 @@ venv.bak/
 
 # config files
 logConfig*.json
+!logConfig.sample.json
