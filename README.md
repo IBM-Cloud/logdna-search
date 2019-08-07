@@ -48,3 +48,7 @@ Go even deeper and look only for the initiator:
 See [LICENSE](LICENSE) for license information.
 
 The tool is provided on a "as-is" basis and is un-supported. Use with care...
+
+# Contribute
+
+To contribute, please open a [Pull Request](/pulls).
