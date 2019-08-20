@@ -14,7 +14,7 @@ The [trackAPIKeys.py](trackAPIKeys.py) tool is invoked with the name of the cred
 ./trackAPIKeys.py credsEU.json
 ```
 
-It returns a JSON document with information per individual key.
+It returns a JSON document with information per individual key. The tool is discussed in the IBM Cloud blog post [Improve Security: Track API Keys Using IAM and LogDNA](https://www.ibm.com/cloud/blog/improve-security-track-api-keys-using-iam-and-logdna). The post includes a screenshot with sample output.
 
 # License
 

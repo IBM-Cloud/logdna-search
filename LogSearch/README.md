@@ -21,6 +21,7 @@ Usage: searchLogDNA.py config [hours] [query]
 - It can be followed by the number of hours to go back in the search history. The default is 48 hours.
 - The last parameter is an optional query string (see [LogDNA search syntax](https://docs.logdna.com/docs/search)).
 
+The tool was covered in the IBM Cloud blog post [Search LogDNA Records from the Command Line](https://www.ibm.com/cloud/blog/search-logdna-records-from-the-command-line).
 
 ### Sample searches
 
